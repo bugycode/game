@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Build/
+Disallow: /StreaminAssets/
+Disallow: /TemplateData/
+Allow: /index.html/
